@@ -1,4 +1,4 @@
-              #TASK-1
+                        #TASK-1
 
 # Get input from user
 num1 = float(input("Enter the first number: "))
@@ -17,7 +17,9 @@ print("Multiplication:", multiplication)
 print("Division:", division)
 
 
-#TASK-2
+                       #TASK-2
+
+
 # Get user input for first and last name
 first_name = input("Enter your first name: ")
 last_name = input("Enter your last name: ")
@@ -27,5 +29,6 @@ full_name = f"{first_name} {last_name}"
 
 # Print personalized greeting
 print(f"\nHello, {full_name}! Welcome to the Python program.")
+
 
 
